@@ -5,12 +5,12 @@
 
 *****
 
-### Kotlin (2020. 04. 29)
+#### Kotlin (2020. 04. 29)
 * **IntelliJ community**에서 작성됨. (Written by __IntelliJ community__.)
 * Java버전 : __13__ (Java version : __13__)
 
 
 
-### Java (2020. 04. 30)
+#### Java (2020. 04. 30)
 * **IntelliJ community**에서 작성됨. (Written by __IntelliJ community__.)
 * Java버전 : __13__ (Java version : __13__)
