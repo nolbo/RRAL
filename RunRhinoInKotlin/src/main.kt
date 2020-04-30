@@ -41,17 +41,10 @@ class Api : ScriptableObject() {
 
 
 fun main(args : Array<String>){
-    while(true){
-        var scn : Scanner = Scanner(System.`in`)
-        print("Input.. > ")
-        var src : String = scn.next()
-        println(Run(src))
-        print("Restart? (Y/N) > ")
-        var bool : String = scn.next()
-        if (bool.toUpperCase() == "N"){
-            break;
-        }
-    }
+    var scn : Scanner = Scanner(System.`in`)
+    print("Input.. > ")
+    var src : String = scn.next()
+    println(Run(src))
 }
 
 
